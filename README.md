@@ -9,7 +9,8 @@
 
 
 ### Demo: Advanced Arduino Control
-<img width="1200" height="526" alt="image" src="https://github.com/user-attachments/assets/fde75b4c-1fa7-4713-9f9f-861cc3ea0acb" />
+
+<img width="1302" height="796" alt="image" src="https://github.com/user-attachments/assets/a4d23e69-79f3-47f2-bc4b-afd3c208318f" />
 
 [<u>https://www.mathworks.com/help/matlab/supportpkg/iot\-automatic\-cooling\-fan\-arduino\-example.html</u>](https://www.mathworks.com/help/matlab/supportpkg/iot-automatic-cooling-fan-arduino-example.html)
 
