@@ -8,6 +8,13 @@
 ![image](https://github.com/user-attachments/assets/73f86e3b-69f0-4612-9156-04f021afad9c)
 
 
+### Demo: Advanced Arduino Control
+<p style="text-align:left">
+   <img src="README_media/image_2.png" width="576" alt="image_2.png">
+</p>
+
+[<u>https://www.mathworks.com/help/matlab/supportpkg/iot\-automatic\-cooling\-fan\-arduino\-example.html</u>](https://www.mathworks.com/help/matlab/supportpkg/iot-automatic-cooling-fan-arduino-example.html)
+
 ## Resources
 
 #### MATLAB/Simulink Online
